@@ -1,0 +1,8 @@
+Description:
+    Tuttles helps you talk about your feelings... for tuttles.
+
+Example:
+    rails generate tuttles feeling
+
+    This will create:
+        tuttles.txt
